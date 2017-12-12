@@ -1,0 +1,13 @@
+#title {
+    background-color: red;
+    width: 100%;
+    height: auto;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 0px 0px 0px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
